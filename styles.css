@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap");
+
+body {
+	max-width: 1400px;
+	margin: auto;
+	font-family: "Outfit", sans-serif;
+}
+h1 {
+	text-align: center;
+	outline: 1px solid black;
+}
+
+.list {
+	margin: auto;
+	outline: 1px solid black;
+	list-style-position: inside;
+}
