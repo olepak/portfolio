@@ -4,14 +4,20 @@ body {
 	max-width: 1400px;
 	margin: auto;
 	font-family: "Outfit", sans-serif;
+	outline: 1px solid black;
 }
 h1 {
 	text-align: center;
 	outline: 1px solid black;
+	text-align: center;
 }
 
 .list {
 	margin: auto;
+	width: fit-content;
 	outline: 1px solid black;
 	list-style-position: inside;
+}
+.list ol {
+	padding: 0;
 }
